@@ -1,9 +1,6 @@
 # HUMAN-REWRITE-AI
 (AI-powered text humanizer that rewrites robotic or AI-generated text into natural human language using open-source NLP models.)
-### HUMAN REWRITE AI
-
 A lightweight, cloud-ready project that rewrites AI-generated or robotic text into natural, human-like language while keeping the original meaning. Built with FastAPI, Gradio, and transformer models such as T5, Pegasus, and Sentence-BERT, this project demonstrates end-to-end AI engineering from model integration to cloud deployment using free tiers.
-
 HumanRewrite AI is a lightweight, cloud-ready system that rewrites AI-generated or robotic-sounding text into fluent, natural human language while preserving meaning.
 It combines modern NLP techniques with strong use of FastAPI, Gradio, and open-source transformer models like T5, Pegasus, and Sentence-BERT.
 The project demonstrates full end-to-end AI engineering: from text processing and model integration to API deployment and cost optimization on free cloud tiers.
